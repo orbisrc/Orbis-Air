@@ -8,7 +8,7 @@
 
 
 
-![DfuSeDemo](/image/firmware_update/dfuse_main_screen_w_marks.png)
+![DfuSeDemo](image/firmware_update/dfuse_main_screen_w_marks.png)
 1. Select "DFU Device in DFU Mode" 
 2. Select "Internal flash"
 3. Choose target firmware
