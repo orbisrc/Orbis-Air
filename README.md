@@ -1,4 +1,7 @@
 ## Orbis-Air
+
+[![Donate using Paypal](https://img.shields.io/badge/paypal-donate-orange)](https://paypal.me/orbisair)
+
 ![Orbis-Air](Docs/image/assets/Logo.png)
 
 Orbis Air is a transmitter project which anyone can make.
@@ -7,8 +10,6 @@ It includes:
 - Shematic
 - Software
 - Assembly instructions
-- Small size
-- Gamepad format
 
 ### Features
 - Transmitter which anyone can make
@@ -16,6 +17,8 @@ It includes:
 - Connect with simulators via usb
 - STM32 F4 processor
 - Color 2.4' IPS screen
+- Small size
+- Gamepad format
 
 ### Done
 - GUI
@@ -35,13 +38,7 @@ It includes:
 - USB-HID for simulators. And tested this in Liftoff
 - USB charger
 
-### ToDo
-- First start wizard
-- Trim central signal
-- Serial mode for rxternal transmitter
-- Assembly instruction
 
-[![Donate using Paypal](https://img.shields.io/badge/paypal-donate-orange)](https://paypal.me/orbisair)
 
 ### BOM
 
