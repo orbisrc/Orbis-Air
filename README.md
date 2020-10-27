@@ -13,7 +13,7 @@ It includes:
 
 ### Features
 - Transmitter which anyone can make
-- Builtin battery with charge from usb
+- Built-in battery with charge from usb
 - Connect with simulators via usb
 - STM32 F4 processor
 - Color 2.4' IPS screen
@@ -22,7 +22,7 @@ It includes:
 
 ### Done
 - GUI
-- RC channell settings
+- RC channel settings
     - End point
     - Trim
     - Exponents
@@ -64,7 +64,7 @@ It includes:
 ### Manual
 
  1. [Assembly manual](Docs/assembly.md)
- 2. [Main circuit](Docs/shematic.md)
+ 2. [Main schematic](Docs/shematic.md)
  3. [DFU driver install](Docs/dfu_dfivers_install.md)
  4. [Firmware update](Docs/firmware_udate.md)
  5. [First start](Docs/first_start.md)
