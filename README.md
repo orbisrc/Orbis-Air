@@ -8,6 +8,9 @@
 
 [Youtube: Orbis Air DIY RC Transmitter](https://youtu.be/_WfU4lffqmU "Orbis Air DIY RC Transmitter")
 
+[Thingverse: Orbis Air DIY RC Transmitter](https://www.thingiverse.com/thing:4635528 "Orbis Air DIY RC Transmitter")
+
+
 
 Orbis Air is a transmitter project which anyone can make.
 It includes:
