@@ -4,6 +4,11 @@
 
 ![Orbis-Air](Docs/image/assets/Logo.png)
 
+[Youtube: Orbis Air channel in Betaflight](https://youtu.be/BvFRO2qdrkg "Orbis Air channel in Betaflight")
+
+[Youtube: Orbis Air DIY RC Transmitter](https://youtu.be/_WfU4lffqmU "Orbis Air DIY RC Transmitter")
+
+
 Orbis Air is a transmitter project which anyone can make.
 It includes:
 - Drawings
